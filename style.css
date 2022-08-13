@@ -1,0 +1,27 @@
+
+.container a{
+    color: rgb(255, 250, 250);
+    font-family: sans-serif;
+}
+
+.container a span:first-child{
+    padding: 13px 29px;
+    background-color: #2998F3;
+    border-radius: 6px;
+    font-size: 20px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+}
+
+.badge{
+    padding: 0px 15px;
+    border-radius: 100%;
+    background-color: rgb(80, 71, 71);
+    font-size: 20px;
+    position: absolute;
+    text-align: center;
+    left: 57%;
+    top: 47%;
+    line-height: 44px;
+}
